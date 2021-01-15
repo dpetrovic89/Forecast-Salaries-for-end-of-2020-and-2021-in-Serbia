@@ -37,3 +37,7 @@ Netto and Brutto Salaries from 1994 to 2020 in Serbia
 
 1. [Exploration](https://github.com/dpetrovic89/Forecast-Salaries-for-end-of-2020-and-2021-in-Serbia/blob/main/Forecast_Salaries_for_end_of_2020_and_2021_in_Serbia_%5BExploration%5D_part_1.ipynb) 
 2. [Forecasting](https://github.com/dpetrovic89/Forecast-Salaries-for-end-of-2020-and-2021-in-Serbia/blob/main/Forecast_Salaries_for_end_of_2020_and_2021_in_Serbia_GPU_%5BForecasting%5D_part_2.ipynb)
+___
+
+### Contact 
+Any questions can be directed to dpetrovic1389@gmail.com
